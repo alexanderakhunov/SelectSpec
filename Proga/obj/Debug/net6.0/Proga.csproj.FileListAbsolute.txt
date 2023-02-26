@@ -1,0 +1,15 @@
+D:\GB\C#\SelectSpecGB\Proga\bin\Debug\net6.0\Proga.exe
+D:\GB\C#\SelectSpecGB\Proga\bin\Debug\net6.0\Proga.deps.json
+D:\GB\C#\SelectSpecGB\Proga\bin\Debug\net6.0\Proga.runtimeconfig.json
+D:\GB\C#\SelectSpecGB\Proga\bin\Debug\net6.0\Proga.dll
+D:\GB\C#\SelectSpecGB\Proga\bin\Debug\net6.0\Proga.pdb
+D:\GB\C#\SelectSpecGB\Proga\obj\Debug\net6.0\Proga.csproj.AssemblyReference.cache
+D:\GB\C#\SelectSpecGB\Proga\obj\Debug\net6.0\Proga.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\C#\SelectSpecGB\Proga\obj\Debug\net6.0\Proga.AssemblyInfoInputs.cache
+D:\GB\C#\SelectSpecGB\Proga\obj\Debug\net6.0\Proga.AssemblyInfo.cs
+D:\GB\C#\SelectSpecGB\Proga\obj\Debug\net6.0\Proga.csproj.CoreCompileInputs.cache
+D:\GB\C#\SelectSpecGB\Proga\obj\Debug\net6.0\Proga.dll
+D:\GB\C#\SelectSpecGB\Proga\obj\Debug\net6.0\refint\Proga.dll
+D:\GB\C#\SelectSpecGB\Proga\obj\Debug\net6.0\Proga.pdb
+D:\GB\C#\SelectSpecGB\Proga\obj\Debug\net6.0\Proga.genruntimeconfig.cache
+D:\GB\C#\SelectSpecGB\Proga\obj\Debug\net6.0\ref\Proga.dll
